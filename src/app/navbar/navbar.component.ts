@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class NavbarComponent implements OnInit {
   nombreEmpresa: string;
   constructor() {
-    this.nombreEmpresa = "softsur.cl";
+    this.nombreEmpresa = 'softsur.cl';
   }
 
   ngOnInit() {
