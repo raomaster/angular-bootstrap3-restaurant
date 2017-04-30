@@ -31,3 +31,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## inicio del proyecto
 
 `ng new (nombre) --routing true --style less`
+
+
+prueba de git
