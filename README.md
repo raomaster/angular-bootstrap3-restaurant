@@ -32,5 +32,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 `ng new (nombre) --routing true --style less`
 
+`git clone url nombrecapeta`
+`cd nombrecarpeta`
+`npm install`
+`c .`
+a trabajar...
 
-prueba de git 2

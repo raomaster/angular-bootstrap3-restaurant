@@ -5,10 +5,20 @@ import { HttpModule } from '@angular/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { NavbarComponent } from './navbar/navbar.component';
+import { FooterComponent } from './footer/footer.component';
+import { InicioComponent } from './inicio/inicio.component';
+import { NosotrosComponent } from './nosotros/nosotros.component';
+import { CarouselComponent } from './inicio/carousel/carousel.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    NavbarComponent,
+    FooterComponent,
+    InicioComponent,
+    NosotrosComponent,
+    CarouselComponent
   ],
   imports: [
     BrowserModule,

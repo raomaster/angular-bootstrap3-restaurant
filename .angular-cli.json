@@ -52,6 +52,9 @@
   },
   "defaults": {
     "styleExt": "less",
-    "component": {}
+    "component": {
+      "spec": false
+    }
+
   }
 }
