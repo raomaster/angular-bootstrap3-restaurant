@@ -38,3 +38,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 `c .`
 a trabajar...
 
+
+#acerca de boostratp
+
+img-circle pone las imagenes en circulos
+
+en cada componente el css se carga en .less y vive de forma particular en cada componente
+
